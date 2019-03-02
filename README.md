@@ -1,2 +1,2 @@
 # centos-basic-env
-Initial setup for centos 7wwwwwww
+Initial setup for centos 7
